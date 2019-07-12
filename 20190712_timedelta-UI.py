@@ -1,8 +1,6 @@
 # -*- coding:UTF-8 -*-
 
 from tkinter import *
-import codecs
-import os
 import datetime
 from datetime import date
 
